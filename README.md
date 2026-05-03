@@ -11,7 +11,7 @@ I created a 3-statement model and a basic DCF for Bata India.
 
 ## Why I did this
 
-Coming from an operations and analytics background, I wanted to understand the financial side of businesses better — not just track numbers, but understand what drives them.
+Coming from an operations and analytics background, I wanted to understand the financial side of businesses better not just track numbers, but understand what drives them.
 
 ## File
 
