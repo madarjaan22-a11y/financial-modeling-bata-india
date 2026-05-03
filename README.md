@@ -15,4 +15,4 @@ Coming from an operations and analytics background, I wanted to understand the f
 
 ## File
 
-- bata-model.xlsx → full model
+- Bata_India_Financial_Model.xlsx → full model
